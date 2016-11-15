@@ -1,0 +1,10 @@
+## Title: Prisoner's Patch
+## Author: |c99CCEFsilvereyes|r
+## Description: Fix for Prisoner's Rags set not giving full sprint cost reduction.
+## Version: 1.0.0
+## APIVersion: 100017
+
+## This Add-On is not created by, affiliated with or sponsored by ZeniMax Media Inc. or its affiliates. The Elder Scrolls® and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the United States and/or other countries. All rights reserved.
+
+; Addon
+PrisonersPatch.lua
