@@ -4,7 +4,7 @@
 local PrisonersPatch = {
     name = "PrisonersPatch",
     title = "Prisoner's Patch",
-    version = "1.1.1",
+    version = "1.1.2",
     author = "|c99CCEFsilvereyes|r,",
     debugMode = false,
 }
